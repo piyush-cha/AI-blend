@@ -23,7 +23,7 @@ See `contributing.md` for ways to get started.
 
 
  ## Here's our website 🔗
- [AI-BLEND]((https://piyush-cha.github.io/AI-blend/))
+ [AI-BLEND](https://piyush-cha.github.io/AI-blend/)
 
 
 # Hi, I'm Piyush! 👋
